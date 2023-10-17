@@ -1,5 +1,9 @@
 {
-    "prodotto1": "Descrizione del prodotto 1",
-    "prodotto2": "Descrizione del prodotto 2",
-    "prodotto3": "Descrizione del prodotto 3"
+    prodotti:[
+        {
+            "prodotto1": "Descrizione del prodotto 1",
+            "prodotto2": "Descrizione del prodotto 2",
+            "prodotto3": "Descrizione del prodotto 3"
+        }
+    ]
 }
